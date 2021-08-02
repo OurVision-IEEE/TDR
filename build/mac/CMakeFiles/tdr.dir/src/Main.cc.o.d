@@ -225,4 +225,15 @@ CMakeFiles/tdr.dir/src/Main.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
-  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bit_reference
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bit_reference \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/c_api.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/tf_attrtype.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/tf_datatype.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/tf_status.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/tf_tensor.h \
+  /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stdbool.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/stdbool.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/c_api_macros.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/c/tf_tstring.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/core/platform/ctstring.h \
+  /Users/tezz/Developer/ourvision-tezz/TDR/include/tensorflow/core/platform/ctstring_internal.h

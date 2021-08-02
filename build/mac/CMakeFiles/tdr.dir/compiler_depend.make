@@ -227,8 +227,31 @@ CMakeFiles/tdr.dir/src/Main.cc.o: ../../src/Main.cc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset \
-  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference \
+  ../../include/tensorflow/c/c_api.h \
+  ../../include/tensorflow/c/tf_attrtype.h \
+  ../../include/tensorflow/c/tf_datatype.h \
+  ../../include/tensorflow/c/tf_status.h \
+  ../../include/tensorflow/c/tf_tensor.h \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/stdbool.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/stdbool.h \
+  ../../include/tensorflow/c/c_api_macros.h \
+  ../../include/tensorflow/c/tf_tstring.h \
+  ../../include/tensorflow/core/platform/ctstring.h \
+  ../../include/tensorflow/core/platform/ctstring_internal.h
 
+
+../../include/tensorflow/core/platform/ctstring_internal.h:
+
+../../include/tensorflow/c/tf_tstring.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/stdbool.h:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/stdbool.h:
+
+../../include/tensorflow/c/tf_attrtype.h:
+
+../../include/tensorflow/c/c_api.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference:
 
@@ -267,6 +290,8 @@ CMakeFiles/tdr.dir/src/Main.cc.o: ../../src/Main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_u_char.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/types.h:
+
+../../include/tensorflow/c/tf_tensor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_nl_item.h:
 
@@ -326,6 +351,8 @@ CMakeFiles/tdr.dir/src/Main.cc.o: ../../src/Main.cc \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/i386/limits.h:
 
+../../include/tensorflow/c/c_api_macros.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/limits.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/climits:
@@ -349,6 +376,8 @@ CMakeFiles/tdr.dir/src/Main.cc.o: ../../src/Main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_off_t.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/cwchar:
+
+../../include/tensorflow/c/tf_datatype.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/atomic:
 
@@ -460,6 +489,8 @@ CMakeFiles/tdr.dir/src/Main.cc.o: ../../src/Main.cc \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/stdio.h:
 
+../../include/tensorflow/c/tf_status.h:
+
 /Library/Developer/CommandLineTools/usr/include/c++/v1/typeinfo:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
@@ -515,6 +546,8 @@ CMakeFiles/tdr.dir/src/Main.cc.o: ../../src/Main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_int8_t.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/utility:
+
+../../include/tensorflow/core/platform/ctstring.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/string.h:
 
