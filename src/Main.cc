@@ -1,9 +1,9 @@
 #include <iostream>
+#include <tensorflow/c/c_api.h>
 
 using namespace std;
 
 #define CommandLineArguments int argc, char** argv
-
 
 int main( CommandLineArguments ) {
     cout << "Program name: " << argv[0] << endl;
@@ -14,4 +14,6 @@ int main( CommandLineArguments ) {
     } else {
         cout << "No CommandLineArguments" << endl;
     }
+
+    cout << "Tensorflow-version: " << TF_Version();
 } 
