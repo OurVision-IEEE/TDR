@@ -15,5 +15,5 @@ int main( CommandLineArguments ) {
         cout << "No CommandLineArguments" << endl;
     }
 
-    cout << "Tensorflow-version: " << TF_Version();
+    cout << "Tensorflow-version: " << TF_Version() << endl;
 } 
